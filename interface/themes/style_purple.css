@@ -636,7 +636,8 @@ font-weight: bold;
 }
 
 .css_button, a[role="button"] {
-    background: transparent url( 'theme_assets/bg_button_a.gif' ) no-repeat scroll top right;
+    padding: 10px 40px 20px 10px;
+    border-radius: 15px;
     color: #444;
     display: block;
     float: left;
